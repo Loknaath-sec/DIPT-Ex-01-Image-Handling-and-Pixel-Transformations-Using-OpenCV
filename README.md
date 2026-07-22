@@ -1,4 +1,4 @@
-# Image Handling and Pixel Transformations Using OpenCV
+# Exp 01 - Image Handling and Pixel Transformations Using OpenCV
 ## Name: Loknaath P
 ## Register Number: 212223240080
 
